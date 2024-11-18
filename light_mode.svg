@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1400px" height="550px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1475px" height="550px" font-size="16px">
 <style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
@@ -8,7 +8,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="1390px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="1450px" height="530px" fill="#f6f8fa" rx="15"/>
 
 
 <text x="15" y="30" fill="#24292f" class="ascii">
@@ -44,18 +44,18 @@ text, tspan {white-space: pre;}
 <tspan x="590" y="50">——————</tspan>
 <tspan x="590" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">macOS, Windows, Linux</tspan>
 <tspan x="590" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 9 months, 18 days</tspan>
-<tspan x="590" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">16</tspan><tspan class="commentColor"> #UB</tspan>
+<tspan x="590" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University at Buffalo</tspan><tspan class="commentColor"> #UB</tspan>
 <tspan x="590" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering</tspan><tspan class="commentColor"> CSE    </tspan>
-<tspan x="590" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">5</tspan>
-<tspan x="590" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">0   </tspan>: <tspan class="valueColor">ARM Assembly, MIPS Assembly, Python, Kotlin, Scala, JavaScript</tspan>
-<tspan x="590" y="210" class="keyColor">535,055</tspan>.<tspan class="keyColor">597,646++</tspan>: <tspan class="valueColor">62,591--</tspan>
+<tspan x="590" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, IntelliJ IDEA</tspan>
+<tspan x="590" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">ARM Assembly, MIPS Assembly, Python, Kotlin, Scala, JavaScript</tspan>
+<tspan x="590" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON</tspan>
 <tspan x="590" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English</tspan>
 <tspan x="590" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Terminal Modifications</tspan>
 <tspan x="590" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting, Raspberry Pi, Tiva C Series, Arduino</tspan>
 <tspan x="590" y="330" class="keyColor">Contact</tspan>:
 <tspan x="590" y="350">——————</tspan>
 <tspan x="590" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">hemoore3@buffalo.edu</tspan>
-<tspan x="590" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">HarryM3103</tspan>
+<tspan x="590" y="390" class="keyColor">GitHub</tspan>: <tspan class="valueColor">HarryM3103</tspan>
 <tspan x="590" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">extremebanana</tspan>
 <tspan x="590" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="590" y="470">——————</tspan>
