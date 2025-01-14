@@ -42,8 +42,8 @@ text, tspan {white-space: pre;}
 <text x="590" y="30" fill="#24292f">
 <tspan x="590" y="30">harry@moore</tspan>
 <tspan x="590" y="50">——————</tspan>
-<tspan x="590" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">macOS 15.0.1 arm64</tspan>
-<tspan x="590" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 10 months, 14 days</tspan>
+<tspan x="590" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">macOS 15.2 arm64</tspan>
+<tspan x="590" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">21 years, 11 months, 13 days</tspan>
 <tspan x="590" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University at Buffalo</tspan><tspan class="commentColor"> #UB</tspan>
 <tspan x="590" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering</tspan><tspan class="commentColor"> CSE    </tspan>
 <tspan x="590" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, IntelliJ IDEA</tspan>
